@@ -701,7 +701,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2025 Ayoub
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -727,7 +727,7 @@ SOFTWARE.
 ## 👤 Contact
 
 **Ayoub ABIDI**
-- GitHub: [@yourusername](https://github.com/Ayoub-ABIDI)
+- GitHub: [Ayoub-ABIDI](https://github.com/Ayoub-ABIDI)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ayoub-abidi-97605028a/)
 - Email: abidiayoub464@gmail.com
 
@@ -835,5 +835,6 @@ streamlit run app/streamlit_app.py
 ---
 
 Made with ❤️ and 🧠 by Ayoub ABIDI
+
 
 Last Updated: December 2024
