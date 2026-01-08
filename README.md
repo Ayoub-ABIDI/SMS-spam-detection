@@ -728,7 +728,7 @@ SOFTWARE.
 
 **Ayoub ABIDI**
 - GitHub: [Ayoub-ABIDI](https://github.com/Ayoub-ABIDI)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ayoub-abidi-97605028a/)
+- LinkedIn: [Ayoub ABIDI](https://www.linkedin.com/in/ayoub-abidi-97605028a/)
 - Email: abidiayoub464@gmail.com
 
 **Project Link**: [https://github.com/yourusername/sms-spam-detection](https://github.com/yourusername/sms-spam-detection)
@@ -838,3 +838,4 @@ Made with ❤️ and 🧠 by Ayoub ABIDI
 
 
 Last Updated: December 2024
+
